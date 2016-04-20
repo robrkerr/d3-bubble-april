@@ -1,0 +1,35 @@
+
+.title {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
+
+.description {
+  color: darkgray;
+  font-size: 23px;
+  border-left: solid black 1px;
+  padding: 10px;
+  min-width: 400px;
+  margin: 20px;
+  background-color: indigo; 
+}
+
+.image {
+  width: 200px;
+}
+
+.topgun {
+  width: 400px;
+}
+
+.chart {
+  width: 400px;
+  height: 300px;
+}
+
+.circle {
+  stroke: green;
+  fill: white;
+  stroke-width: 5;
+}
